@@ -11,7 +11,7 @@ I'm Praboth Charith, a software engineer and designer who builds user-friendly, 
 
 **Portfolio & Contact:**
 Explore my work and connect with me:
-*   **Website:** [praboth.me](https://praboth.me)
+*   **Website:** [praboth.com](https://praboth.com)
 *   **Email:** praboth.c@icloud.com
 *   **LinkedIn:** [Praboth Charith](https://www.linkedin.com/in/prabothcharith)
 *   **Dribbble:** [Praboth Charith](https://dribbble.com/praboth)
